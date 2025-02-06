@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogendia&label=Profile%20views&color=0e75b6&style=flat" alt="mogendia" /> </p>
 
-- 💬 Ask me about **Nodejs and Asp**
+- 💬 Ask me about **.net**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohammed-gendia-9388581b5/**
 
